@@ -1,0 +1,1074 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+                              _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin) (atoi)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o) (_strtol_r)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o) (_ctype_)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o) (__errno)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o) (_impure_ptr)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o) (__aeabi_uidivmod)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uqi.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (__gnu_thumb1_case_uqi)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (__gnu_thumb1_case_shi)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uhi.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (__gnu_thumb1_case_uhi)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (__aeabi_idivmod)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (memcpy)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (memset)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (strlen)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+                              C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o (strncasecmp)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_umount_cb
+                0x0000000000000000        0xc C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_suspend_cb
+                0x0000000000000000       0x10 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_resume_cb
+                0x0000000000000000        0xc C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_usbtmc_msg_trigger_cb
+                0x0000000000000000       0x14 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_usbtmc_indicator_pulse_cb
+                0x0000000000000000       0x10 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text._write   0x0000000000000000        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text._read    0x0000000000000000        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccCr7oxH.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccivYLoP.debug.temp.o
+ .debug_info    0x0000000000000000       0xa0 C:\msys64\tmp\cca314lX.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x66 C:\msys64\tmp\cca314lX.debug.temp.o
+ .debug_line    0x0000000000000000      0x14b C:\msys64\tmp\cca314lX.debug.temp.o
+ .debug_str     0x0000000000000000      0x217 C:\msys64\tmp\cca314lX.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cca314lX.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cceFouh5.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccCV0zid.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccmvPjql.debug.temp.o
+ .debug_info    0x0000000000000000      0x123 C:\msys64\tmp\ccOL6Qut.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0xda C:\msys64\tmp\ccOL6Qut.debug.temp.o
+ .debug_line    0x0000000000000000      0x1a9 C:\msys64\tmp\ccOL6Qut.debug.temp.o
+ .debug_str     0x0000000000000000      0x285 C:\msys64\tmp\ccOL6Qut.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccOL6Qut.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccwwZvEB.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccivu5II.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cc2ENjLP.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccWTKIUW.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccq73h93.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccetASkb.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cc2aUKDi.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccQYCI1p.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccwUt9nx.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccW562PE.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccW562PE.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccW562PE.debug.temp.o
+ .debug_str     0x0000000000000000      0x141 C:\msys64\tmp\ccW562PE.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccW562PE.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\cckkS1mM.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\cckkS1mM.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\cckkS1mM.debug.temp.o
+ .debug_str     0x0000000000000000      0x13d C:\msys64\tmp\cckkS1mM.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cckkS1mM.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccaX2ART.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccaX2ART.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccaX2ART.debug.temp.o
+ .debug_str     0x0000000000000000      0x13d C:\msys64\tmp\ccaX2ART.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccaX2ART.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccMoNLr1.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccMoNLr1.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccMoNLr1.debug.temp.o
+ .debug_str     0x0000000000000000      0x140 C:\msys64\tmp\ccMoNLr1.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccMoNLr1.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccyjGwDc.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccyjGwDc.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccyjGwDc.debug.temp.o
+ .debug_str     0x0000000000000000      0x13d C:\msys64\tmp\ccyjGwDc.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccyjGwDc.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccaDEeMn.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccaDEeMn.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccaDEeMn.debug.temp.o
+ .debug_str     0x0000000000000000      0x13f C:\msys64\tmp\ccaDEeMn.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccaDEeMn.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\cci3L11y.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\cci3L11y.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\cci3L11y.debug.temp.o
+ .debug_str     0x0000000000000000      0x13d C:\msys64\tmp\cci3L11y.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cci3L11y.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccMctMnK.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccMctMnK.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccMctMnK.debug.temp.o
+ .debug_str     0x0000000000000000      0x143 C:\msys64\tmp\ccMctMnK.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccMctMnK.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\cccMSoFV.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\cccMSoFV.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\cccMSoFV.debug.temp.o
+ .debug_str     0x0000000000000000      0x13d C:\msys64\tmp\cccMSoFV.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cccMSoFV.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\cckCT126.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccKxmcwi.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccKxmcwi.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccKxmcwi.debug.temp.o
+ .debug_str     0x0000000000000000      0x141 C:\msys64\tmp\ccKxmcwi.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccKxmcwi.debug.temp.o
+ .debug_info    0x0000000000000000       0x25 C:\msys64\tmp\ccUoROXt.debug.temp.o
+ .debug_abbrev  0x0000000000000000       0x1b C:\msys64\tmp\ccUoROXt.debug.temp.o
+ .debug_line    0x0000000000000000       0x1e C:\msys64\tmp\ccUoROXt.debug.temp.o
+ .debug_str     0x0000000000000000      0x143 C:\msys64\tmp\ccUoROXt.debug.temp.o
+ .comment       0x0000000000000000       0x13 C:\msys64\tmp\ccUoROXt.debug.temp.o
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uhi.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uhi.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000000000000 0x0000000000040000 xr
+ram              0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000002000                STACK_SIZE = DEFINED (STACK_SIZE)?STACK_SIZE:DEFINED (__stack_size__)?__stack_size__:0x2000
+
+.text           0x0000000000000000     0x2568
+                0x0000000000000000                . = ALIGN (0x4)
+                0x0000000000000000                _sfixed = .
+ *(.vectors .vectors.*)
+ .vectors       0x0000000000000000       0xb4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                0x0000000000000000                exception_table
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text.prepare_setup
+                0x00000000000000b4       0x2c C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.dcd_edpt0_status_complete
+                0x00000000000000e0       0x24 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.Dummy_Handler
+                0x0000000000000104        0x2 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000000000106        0x2 
+ .text.board_led_write
+                0x0000000000000108       0x1c C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.SysTick_Handler
+                0x0000000000000124       0x10 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.get_driver
+                0x0000000000000134       0x3c C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.invoke_class_control
+                0x0000000000000170       0x14 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbd_int_set
+                0x0000000000000184       0x24 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.atomicChangeState
+                0x00000000000001a8       0x38 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbtmcd_init_cb
+                0x00000000000001e0       0x2c C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbd_edpt_clear_stall.constprop.0
+                0x000000000000020c       0x48 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbd_edpt_stall.constprop.0
+                0x0000000000000254       0x48 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbd_edpt_xfer.constprop.0
+                0x000000000000029c       0xac C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_usbtmc_start_bus_read.isra.0
+                0x0000000000000348       0x34 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbtmcd_open_cb
+                0x000000000000037c      0x218 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text._status_stage_xact.isra.0
+                0x0000000000000594       0x14 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_control_status.isra.0
+                0x00000000000005a8       0x20 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.configuration_reset
+                0x00000000000005c8       0x50 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbtmcd_reset_cb
+                0x0000000000000618       0x44 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_usbtmc_transmit_dev_msg_data.constprop.0.isra.0
+                0x000000000000065c       0xb0 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text._data_stage_xact.isra.0
+                0x000000000000070c       0x54 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tud_control_xfer.isra.0
+                0x0000000000000760       0x54 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbtmcd_control_xfer_cb
+                0x00000000000007b4      0x4f0 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.tu_fifo_write.isra.0
+                0x0000000000000ca4       0x56 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000000000cfa        0x2 
+ .text.USB_Handler
+                0x0000000000000cfc      0x210 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.Reset_Handler
+                0x0000000000000f0c      0xba8 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.handle_devMsgOut.part.0
+                0x0000000000001ab4       0xe4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text.usbtmcd_xfer_cb
+                0x0000000000001b98      0x2bc C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .text          0x0000000000001e54       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+                0x0000000000001e54                atoi
+                0x0000000000001e60                _atoi_r
+ .text          0x0000000000001e6c      0x184 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+                0x0000000000001fb8                _strtol_r
+                0x0000000000001fc0                strtol_l
+                0x0000000000001fd8                strtol
+ .text          0x0000000000001ff0        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+                0x0000000000001ff0                __errno
+ .text          0x0000000000001ffc       0xa8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000001ffc                memcpy
+ .text          0x00000000000020a4       0xa8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                0x00000000000020a4                memset
+ .text          0x000000000000214c       0x68 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+                0x000000000000214c                strlen
+ .text          0x00000000000021b4       0x4c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+                0x00000000000021b4                strncasecmp
+ .text          0x0000000000002200       0x8c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x0000000000002200                __aeabi_uidiv
+                0x0000000000002200                __udivsi3
+                0x0000000000002278                __aeabi_uidivmod
+ .text          0x000000000000228c        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000000000000228c                __aeabi_idiv0
+                0x000000000000228c                __aeabi_ldiv0
+ .text          0x0000000000002290       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uqi.o)
+                0x0000000000002290                __gnu_thumb1_case_uqi
+ .text          0x00000000000022a4       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+                0x00000000000022a4                __gnu_thumb1_case_shi
+ .text          0x00000000000022b8       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uhi.o)
+                0x00000000000022b8                __gnu_thumb1_case_uhi
+ .text          0x00000000000022cc       0xa8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x00000000000022cc                __divsi3
+                0x00000000000022cc                __aeabi_idiv
+                0x0000000000002360                __aeabi_idivmod
+ *(.glue_7t)
+ .glue_7t       0x0000000000002374        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000000002374        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata.handle_devMsgOut.part.0.str1.1
+                0x0000000000002374        0xd C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000002381       0x2d C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata.__compound_literal.0
+                0x00000000000023ae        0x2 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata._usbd_driver
+                0x00000000000023b0       0x18 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata.desc_device
+                0x00000000000023c8       0x12 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata.desc_fs_configuration
+                0x00000000000023da       0x27 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata.idn    0x0000000000002401       0x35 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000000002436        0x2 
+ .rodata.string_desc_arr
+                0x0000000000002438       0x14 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata.tud_usbtmc_app_capabilities
+                0x000000000000244c       0x18 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .rodata        0x0000000000002464      0x101 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+                0x0000000000002464                _ctype_
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000002568                . = ALIGN (0x4)
+ *fill*         0x0000000000002565        0x3 
+ *(.init)
+                0x0000000000002568                . = ALIGN (0x4)
+                0x0000000000002568                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000000002568                __preinit_array_end = .
+                0x0000000000002568                . = ALIGN (0x4)
+                0x0000000000002568                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000000002568                __init_array_end = .
+                0x0000000000002568                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+                0x0000000000002568                . = ALIGN (0x4)
+ *(.fini)
+                0x0000000000002568                . = ALIGN (0x4)
+                0x0000000000002568                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000000000002568                __fini_array_end = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+                0x0000000000002568                . = ALIGN (0x4)
+                0x0000000000002568                _efixed = .
+                [!provide]                        PROVIDE (__exidx_start = .)
+
+.vfp11_veneer   0x0000000000002568        0x0
+ .vfp11_veneer  0x0000000000002568        0x0 linker stubs
+
+.v4_bx          0x0000000000002568        0x0
+ .v4_bx         0x0000000000002568        0x0 linker stubs
+
+.iplt           0x0000000000002568        0x0
+ .iplt          0x0000000000002568        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+
+.igot.plt       0x0000000000002568        0x0
+ .igot.plt      0x0000000000002568        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+
+.rel.dyn        0x0000000000002568        0x0
+ .rel.iplt      0x0000000000002568        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                        PROVIDE (__exidx_end = .)
+                0x0000000000002568                . = ALIGN (0x4)
+                0x0000000000002568                _etext = .
+
+.relocate       0x0000000020000000      0x12c load address 0x0000000000002568
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _srelocate = .
+ *(.ramfunc .ramfunc.*)
+ *(.data .data.*)
+ .data._usbd_qdef
+                0x0000000020000000       0x18 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .data._usbd_rhport
+                0x0000000020000018        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000020000019        0x3 
+ .data.blink_interval_ms
+                0x000000002000001c        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .data.resp_delay
+                0x0000000020000020        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .data.usbtmc_state
+                0x0000000020000024       0xa4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .data          0x00000000200000c8       0x64 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                0x00000000200000c8                _impure_ptr
+                0x000000002000012c                . = ALIGN (0x4)
+                0x000000002000012c                _erelocate = .
+
+.bss            0x000000002000012c      0x3c0 load address 0x0000000000002694
+                0x000000002000012c                . = ALIGN (0x4)
+                0x000000002000012c                _sbss = .
+                0x000000002000012c                _szero = .
+ *(.bss .bss.*)
+ .bss._app_driver
+                0x000000002000012c        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss._app_driver_count
+                0x0000000020000130        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000020000131        0x3 
+ .bss._ctrl_xfer
+                0x0000000020000134       0x14 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss._desc_str
+                0x0000000020000148       0x40 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss._setup_packet
+                0x0000000020000188        0xa C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000020000192        0x2 
+ .bss._usbd_ctrl_buf
+                0x0000000020000194       0x40 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss._usbd_dev
+                0x00000000200001d4       0x33 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x0000000020000207        0x1 
+ .bss._usbd_q   0x0000000020000208        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss._usbd_qdef_buf
+                0x000000002000020c       0xc0 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.buffer    0x00000000200002cc       0xe1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x00000000200003ad        0x3 
+ .bss.buffer_len
+                0x00000000200003b0        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.buffer_tx_ix
+                0x00000000200003b4        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.bulkInStarted
+                0x00000000200003b8        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.doPulse   0x00000000200003bc        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x00000000200003bd        0x3 
+ .bss.idnQuery  0x00000000200003c0        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.led_state.1
+                0x00000000200003c4        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x00000000200003c5        0x3 
+ .bss.msgReqLen
+                0x00000000200003c8        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.queryDelayStart
+                0x00000000200003cc        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.queryState
+                0x00000000200003d0        0x2 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x00000000200003d2        0x2 
+ .bss.sram_registers
+                0x00000000200003d4      0x100 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.start_ms.0
+                0x00000000200004d4        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.status    0x00000000200004d8        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x00000000200004d9        0x3 
+ .bss.system_ticks
+                0x00000000200004dc        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.termChar  0x00000000200004e0        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.termCharRequested
+                0x00000000200004e1        0x1 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *fill*         0x00000000200004e2        0x2 
+ .bss.usbtmcLock
+                0x00000000200004e4        0x4 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .bss.usbtmcLockBuffer
+                0x00000000200004e8        0x2 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ *(COMMON)
+                0x00000000200004ec                . = ALIGN (0x4)
+ *fill*         0x00000000200004ea        0x2 
+                0x00000000200004ec                _ebss = .
+                0x00000000200004ec                _ezero = .
+                0x00000000200004ec                end = .
+
+.stack          0x00000000200004ec     0x2004 load address 0x0000000000002a54
+                0x00000000200004f0                . = ALIGN (0x8)
+ *fill*         0x00000000200004ec        0x4 
+                0x00000000200004f0                _sstack = .
+                0x00000000200024f0                . = (. + STACK_SIZE)
+ *fill*         0x00000000200004f0     0x2000 
+                0x00000000200024f0                . = ALIGN (0x8)
+                0x00000000200024f0                _estack = .
+                0x00000000200024f0                . = ALIGN (0x4)
+                0x00000000200024f0                _end = .
+LOAD _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o
+LOAD C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+LOAD C:\msys64\tmp\ccCr7oxH.debug.temp.o
+LOAD C:\msys64\tmp\ccivYLoP.debug.temp.o
+LOAD C:\msys64\tmp\cca314lX.debug.temp.o
+LOAD C:\msys64\tmp\cceFouh5.debug.temp.o
+LOAD C:\msys64\tmp\ccCV0zid.debug.temp.o
+LOAD C:\msys64\tmp\ccmvPjql.debug.temp.o
+LOAD C:\msys64\tmp\ccOL6Qut.debug.temp.o
+LOAD C:\msys64\tmp\ccwwZvEB.debug.temp.o
+LOAD C:\msys64\tmp\ccivu5II.debug.temp.o
+LOAD C:\msys64\tmp\cc2ENjLP.debug.temp.o
+LOAD C:\msys64\tmp\ccWTKIUW.debug.temp.o
+LOAD C:\msys64\tmp\ccq73h93.debug.temp.o
+LOAD C:\msys64\tmp\ccetASkb.debug.temp.o
+LOAD C:\msys64\tmp\cc2aUKDi.debug.temp.o
+LOAD C:\msys64\tmp\ccQYCI1p.debug.temp.o
+LOAD C:\msys64\tmp\ccwUt9nx.debug.temp.o
+LOAD C:\msys64\tmp\ccW562PE.debug.temp.o
+LOAD C:\msys64\tmp\cckkS1mM.debug.temp.o
+LOAD C:\msys64\tmp\ccaX2ART.debug.temp.o
+LOAD C:\msys64\tmp\ccMoNLr1.debug.temp.o
+LOAD C:\msys64\tmp\ccyjGwDc.debug.temp.o
+LOAD C:\msys64\tmp\ccaDEeMn.debug.temp.o
+LOAD C:\msys64\tmp\cci3L11y.debug.temp.o
+LOAD C:\msys64\tmp\ccMctMnK.debug.temp.o
+LOAD C:\msys64\tmp\cccMSoFV.debug.temp.o
+LOAD C:\msys64\tmp\cckCT126.debug.temp.o
+LOAD C:\msys64\tmp\ccKxmcwi.debug.temp.o
+LOAD C:\msys64\tmp\ccUoROXt.debug.temp.o
+LOAD _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o
+LOAD _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/system_samd21.o
+LOAD _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/gclk/hpl_gclk.o
+LOAD _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/pm/hpl_pm.o
+LOAD _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/sysctrl/hpl_sysctrl.o
+LOAD _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hal/src/hal_atomic.o
+LOAD _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o
+LOAD _build/atsamd21_xpro/obj/hw/bsp/board.o
+LOAD _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o
+LOAD _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o
+LOAD _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o
+LOAD _build/atsamd21_xpro/obj/src/tusb.o
+LOAD _build/atsamd21_xpro/obj/src/common/tusb_fifo.o
+LOAD _build/atsamd21_xpro/obj/src/device/usbd.o
+LOAD _build/atsamd21_xpro/obj/src/device/usbd_control.o
+LOAD _build/atsamd21_xpro/obj/src/class/audio/audio_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/cdc/cdc_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/dfu/dfu_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/dfu/dfu_rt_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/hid/hid_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/midi/midi_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/msc/msc_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/net/ecm_rndis_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/net/ncm_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/video/video_device.o
+LOAD _build/atsamd21_xpro/obj/src/class/vendor/vendor_device.o
+START GROUP
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+OUTPUT(_build/atsamd21_xpro/usbtmc.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x1a94f
+ .debug_info    0x0000000000000000     0x5339 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .debug_info    0x0000000000005339     0x2d2a C:\msys64\tmp\ccCr7oxH.debug.temp.o
+                0x0000000000005339                dcd_samd.c.46be630f
+ .debug_info    0x0000000000008063     0x3920 C:\msys64\tmp\ccivYLoP.debug.temp.o
+                0x0000000000008063                startup_samd21.c.1fceb640
+ .debug_info    0x000000000000b983      0x3f0 C:\msys64\tmp\cceFouh5.debug.temp.o
+                0x000000000000b983                hpl_gclk.c.f5e54c11
+ .debug_info    0x000000000000bd73      0xb76 C:\msys64\tmp\ccCV0zid.debug.temp.o
+                0x000000000000bd73                hpl_pm.c.eb7b21e0
+ .debug_info    0x000000000000c8e9     0x1679 C:\msys64\tmp\ccmvPjql.debug.temp.o
+                0x000000000000c8e9                hpl_sysctrl.c.fa878b60
+ .debug_info    0x000000000000df62     0x78d9 C:\msys64\tmp\ccwwZvEB.debug.temp.o
+                0x000000000000df62                family.c.cc81e7af
+ .debug_info    0x000000000001583b      0x114 C:\msys64\tmp\ccivu5II.debug.temp.o
+                0x000000000001583b                board.c.6b17bca4
+ .debug_info    0x000000000001594f      0x15a C:\msys64\tmp\cc2ENjLP.debug.temp.o
+                0x000000000001594f                main.c.96e4db00
+ .debug_info    0x0000000000015aa9      0x3f6 C:\msys64\tmp\ccWTKIUW.debug.temp.o
+                0x0000000000015aa9                usb_descriptors.c.7554e1a9
+ .debug_info    0x0000000000015e9f      0x93a C:\msys64\tmp\ccq73h93.debug.temp.o
+                0x0000000000015e9f                usbtmc_app.c.224630b2
+ .debug_info    0x00000000000167d9      0x652 C:\msys64\tmp\ccetASkb.debug.temp.o
+                0x00000000000167d9                tusb.c.78c40a2d
+ .debug_info    0x0000000000016e2b      0xcd2 C:\msys64\tmp\cc2aUKDi.debug.temp.o
+                0x0000000000016e2b                tusb_fifo.c.4e3da884
+ .debug_info    0x0000000000017afd     0x16ce C:\msys64\tmp\ccQYCI1p.debug.temp.o
+                0x0000000000017afd                usbd.c.43505ef3
+ .debug_info    0x00000000000191cb      0x487 C:\msys64\tmp\ccwUt9nx.debug.temp.o
+                0x00000000000191cb                usbd_control.c.92e702e3
+ .debug_info    0x0000000000019652     0x12fd C:\msys64\tmp\cckCT126.debug.temp.o
+                0x0000000000019652                usbtmc_device.c.a90aaae8
+
+.debug_abbrev   0x0000000000000000     0x20d7
+ .debug_abbrev  0x0000000000000000      0x319 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000000319      0x354 C:\msys64\tmp\ccCr7oxH.debug.temp.o
+ .debug_abbrev  0x000000000000066d      0x254 C:\msys64\tmp\ccivYLoP.debug.temp.o
+ .debug_abbrev  0x00000000000008c1      0x181 C:\msys64\tmp\cceFouh5.debug.temp.o
+ .debug_abbrev  0x0000000000000a42      0x1f7 C:\msys64\tmp\ccCV0zid.debug.temp.o
+ .debug_abbrev  0x0000000000000c39      0x1e7 C:\msys64\tmp\ccmvPjql.debug.temp.o
+ .debug_abbrev  0x0000000000000e20      0x33c C:\msys64\tmp\ccwwZvEB.debug.temp.o
+ .debug_abbrev  0x000000000000115c       0x76 C:\msys64\tmp\ccivu5II.debug.temp.o
+ .debug_abbrev  0x00000000000011d2       0xd6 C:\msys64\tmp\cc2ENjLP.debug.temp.o
+ .debug_abbrev  0x00000000000012a8      0x10d C:\msys64\tmp\ccWTKIUW.debug.temp.o
+ .debug_abbrev  0x00000000000013b5      0x244 C:\msys64\tmp\ccq73h93.debug.temp.o
+ .debug_abbrev  0x00000000000015f9      0x1b2 C:\msys64\tmp\ccetASkb.debug.temp.o
+ .debug_abbrev  0x00000000000017ab      0x1b8 C:\msys64\tmp\cc2aUKDi.debug.temp.o
+ .debug_abbrev  0x0000000000001963      0x2db C:\msys64\tmp\ccQYCI1p.debug.temp.o
+ .debug_abbrev  0x0000000000001c3e      0x1dc C:\msys64\tmp\ccwUt9nx.debug.temp.o
+ .debug_abbrev  0x0000000000001e1a      0x2bd C:\msys64\tmp\cckCT126.debug.temp.o
+
+.debug_loc      0x0000000000000000     0x55a3
+ .debug_loc     0x0000000000000000     0x55a3 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x120
+ .debug_aranges
+                0x0000000000000000      0x120 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x19f8
+ .debug_ranges  0x0000000000000000     0x19f8 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x52c9
+ .debug_line    0x0000000000000000     0x36d6 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .debug_line    0x00000000000036d6      0x288 C:\msys64\tmp\ccCr7oxH.debug.temp.o
+ .debug_line    0x000000000000395e      0x22b C:\msys64\tmp\ccivYLoP.debug.temp.o
+ .debug_line    0x0000000000003b89      0x1a1 C:\msys64\tmp\cceFouh5.debug.temp.o
+ .debug_line    0x0000000000003d2a      0x2a9 C:\msys64\tmp\ccCV0zid.debug.temp.o
+ .debug_line    0x0000000000003fd3      0x220 C:\msys64\tmp\ccmvPjql.debug.temp.o
+ .debug_line    0x00000000000041f3      0x44d C:\msys64\tmp\ccwwZvEB.debug.temp.o
+ .debug_line    0x0000000000004640      0x117 C:\msys64\tmp\ccivu5II.debug.temp.o
+ .debug_line    0x0000000000004757      0x123 C:\msys64\tmp\cc2ENjLP.debug.temp.o
+ .debug_line    0x000000000000487a      0x177 C:\msys64\tmp\ccWTKIUW.debug.temp.o
+ .debug_line    0x00000000000049f1      0x1c7 C:\msys64\tmp\ccq73h93.debug.temp.o
+ .debug_line    0x0000000000004bb8      0x163 C:\msys64\tmp\ccetASkb.debug.temp.o
+ .debug_line    0x0000000000004d1b       0xfc C:\msys64\tmp\cc2aUKDi.debug.temp.o
+ .debug_line    0x0000000000004e17      0x1ab C:\msys64\tmp\ccQYCI1p.debug.temp.o
+ .debug_line    0x0000000000004fc2      0x140 C:\msys64\tmp\ccwUt9nx.debug.temp.o
+ .debug_line    0x0000000000005102      0x1c7 C:\msys64\tmp\cckCT126.debug.temp.o
+
+.debug_str      0x0000000000000000     0x5e22
+ .debug_str     0x0000000000000000      0x246 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                        0x254 (size before relaxing)
+ .debug_str     0x0000000000000246     0x11e1 C:\msys64\tmp\ccCr7oxH.debug.temp.o
+                                       0x13cc (size before relaxing)
+ .debug_str     0x0000000000001427      0xa07 C:\msys64\tmp\ccivYLoP.debug.temp.o
+                                       0x136f (size before relaxing)
+ .debug_str     0x0000000000001e2e      0x18c C:\msys64\tmp\cceFouh5.debug.temp.o
+                                        0x37a (size before relaxing)
+ .debug_str     0x0000000000001fba      0x411 C:\msys64\tmp\ccCV0zid.debug.temp.o
+                                        0x67e (size before relaxing)
+ .debug_str     0x00000000000023cb      0x6e5 C:\msys64\tmp\ccmvPjql.debug.temp.o
+                                        0xa03 (size before relaxing)
+ .debug_str     0x0000000000002ab0      0xf5e C:\msys64\tmp\ccwwZvEB.debug.temp.o
+                                       0x2474 (size before relaxing)
+ .debug_str     0x0000000000003a0e       0x42 C:\msys64\tmp\ccivu5II.debug.temp.o
+                                        0x1fd (size before relaxing)
+ .debug_str     0x0000000000003a50      0x123 C:\msys64\tmp\cc2ENjLP.debug.temp.o
+                                        0x2df (size before relaxing)
+ .debug_str     0x0000000000003b73      0x5d1 C:\msys64\tmp\ccWTKIUW.debug.temp.o
+                                        0x7b2 (size before relaxing)
+ .debug_str     0x0000000000004144      0x672 C:\msys64\tmp\ccq73h93.debug.temp.o
+                                        0x8ee (size before relaxing)
+ .debug_str     0x00000000000047b6      0x229 C:\msys64\tmp\ccetASkb.debug.temp.o
+                                        0x798 (size before relaxing)
+ .debug_str     0x00000000000049df      0x43f C:\msys64\tmp\cc2aUKDi.debug.temp.o
+                                        0x6e4 (size before relaxing)
+ .debug_str     0x0000000000004e1e      0x716 C:\msys64\tmp\ccQYCI1p.debug.temp.o
+                                       0x122c (size before relaxing)
+ .debug_str     0x0000000000005534      0x173 C:\msys64\tmp\ccwUt9nx.debug.temp.o
+                                        0x4fd (size before relaxing)
+ .debug_str     0x00000000000056a7      0x77b C:\msys64\tmp\cckCT126.debug.temp.o
+                                       0x1672 (size before relaxing)
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                         0x13 (size before relaxing)
+
+.ARM.attributes
+                0x0000000000000000       0x2c
+ .ARM.attributes
+                0x0000000000000000       0x2a C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .ARM.attributes
+                0x000000000000002a       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x0000000000000056       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000082       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000000000ae       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000000000da       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000106       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000132       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000015e       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x000000000000018a       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+ .ARM.attributes
+                0x00000000000001b6       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000001d4       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000001f2       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x0000000000000210       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+ .ARM.attributes
+                0x000000000000022e       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x000000000000024c       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+
+.debug_frame    0x0000000000000000      0x538
+ .debug_frame   0x0000000000000000      0x358 C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000358       0x40 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000000398       0x84 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+ .debug_frame   0x000000000000041c       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x000000000000043c       0x34 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000470       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000004a0       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000000004c8       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+ .debug_frame   0x00000000000004f8       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000518       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+
+Cross Reference Table
+
+Symbol                                            File
+AC_Handler                                        _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+ADC_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+DAC_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+DMAC_Handler                                      _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+Dummy_Handler                                     _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+EIC_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+EVSYS_Handler                                     _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+HardFault_Handler                                 _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+I2S_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+NMI_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+NVMCTRL_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+PM_Handler                                        _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+PTC_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+PendSV_Handler                                    _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+RTC_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+Reset_Handler                                     _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SERCOM0_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SERCOM1_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SERCOM2_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SERCOM3_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SERCOM4_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SERCOM5_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SVC_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SYSCTRL_Handler                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SysTick_Handler                                   _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+SystemCoreClock                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/system_samd21.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+SystemCoreClockUpdate                             _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/system_samd21.o (symbol from plugin)
+SystemInit                                        _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/system_samd21.o (symbol from plugin)
+TC3_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TC4_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TC5_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TC6_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TC7_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TCC0_Handler                                      _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TCC1_Handler                                      _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+TCC2_Handler                                      _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+USB_Handler                                       _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+WDT_Handler                                       _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+__aeabi_idiv                                      c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+__aeabi_idiv0                                     c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+__aeabi_idivmod                                   c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+__aeabi_ldiv0                                     c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+__divsi3                                          c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+__errno                                           c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+__gnu_thumb1_case_shi                             c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_shi.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+__gnu_thumb1_case_uhi                             c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uhi.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+__gnu_thumb1_case_uqi                             c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_thumb1_case_uqi.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+__sf_fake_stderr                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+__udivsi3                                         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+_atoi_r                                           c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+_ctype_                                           c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-ctype_.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+_erelocate                                        C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_estack                                           C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_etext                                            C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_ezero                                            C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_gclk_init_generators                             _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/gclk/hpl_gclk.o (symbol from plugin)
+_gclk_init_generators_by_fref                     _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/gclk/hpl_gclk.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+_get_reset_reason                                 _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/pm/hpl_pm.o (symbol from plugin)
+_global_impure_ptr                                c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+_impure_ptr                                       c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-errno.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+_pm_init                                          _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/pm/hpl_pm.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+_read                                             C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/bsp/board.o (symbol from plugin)
+_set_sleep_mode                                   _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/pm/hpl_pm.o (symbol from plugin)
+_sfixed                                           C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_srelocate                                        C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_strtol_r                                         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+_sysctrl_init_referenced_generators               _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/sysctrl/hpl_sysctrl.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+_sysctrl_init_sources                             _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hpl/sysctrl/hpl_sysctrl.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+_szero                                            C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+_usbd_qdef                                        _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+_usbd_qdef_buf                                    _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+_write                                            C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/bsp/board.o (symbol from plugin)
+atoi                                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+atomicChangeState                                 _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+atomic_enter_critical                             _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hal/src/hal_atomic.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+atomic_get_version                                _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hal/src/hal_atomic.o (symbol from plugin)
+atomic_leave_critical                             _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/hal/src/hal_atomic.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+audio_device.c.69bd7228                           C:\msys64\tmp\ccW562PE.debug.temp.o
+board.c.6b17bca4                                  C:\msys64\tmp\ccivu5II.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+board_button_read                                 _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+board_init                                        _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+board_led_write                                   _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+board_millis                                      _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+board_uart_read                                   _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/board.o (symbol from plugin)
+board_uart_write                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/board.o (symbol from plugin)
+cdc_device.c.c4d9dcc0                             C:\msys64\tmp\cckkS1mM.debug.temp.o
+dcd_connect                                       _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_disconnect                                    _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt0_status_complete                         _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+dcd_edpt_clear_stall                              _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt_close                                    _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt_close_all                                _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt_open                                     _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt_stall                                    _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt_xfer                                     _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_edpt_xfer_fifo                                _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_event_handler                                 _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+dcd_init                                          _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_int_disable                                   _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_int_enable                                    _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_int_handler                                   _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+dcd_remote_wakeup                                 _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_samd.c.46be630f                               C:\msys64\tmp\ccCr7oxH.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+dcd_set_address                                   _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+dcd_sof_enable                                    _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+desc_device                                       _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o (symbol from plugin)
+desc_fs_configuration                             _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o (symbol from plugin)
+dfu_device.c.1ce8a687                             C:\msys64\tmp\ccaX2ART.debug.temp.o
+dfu_rt_device.c.e0379989                          C:\msys64\tmp\ccMoNLr1.debug.temp.o
+doPulse                                           _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+ecm_rndis_device.c.2befb564                       C:\msys64\tmp\ccMctMnK.debug.temp.o
+exception_table                                   C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+family.c.cc81e7af                                 C:\msys64\tmp\ccwwZvEB.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+hal_atomic.c.f972594b                             C:\msys64\tmp\ccOL6Qut.debug.temp.o
+hid_device.c.de83bf15                             C:\msys64\tmp\ccyjGwDc.debug.temp.o
+hpl_gclk.c.f5e54c11                               C:\msys64\tmp\cceFouh5.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+hpl_pm.c.eb7b21e0                                 C:\msys64\tmp\ccCV0zid.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+hpl_sysctrl.c.fa878b60                            C:\msys64\tmp\ccmvPjql.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+led_blinking_task                                 _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+led_indicator_pulse                               _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+main                                              _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/hw/mcu/microchip/samd21/gcc/gcc/startup_samd21.o (symbol from plugin)
+main.c.96e4db00                                   C:\msys64\tmp\cc2ENjLP.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+maybe_transfer_complete                           _build/atsamd21_xpro/obj/src/portable/microchip/samd/dcd_samd.o (symbol from plugin)
+memcpy                                            c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+memset                                            c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+midi_device.c.3958a284                            C:\msys64\tmp\ccaDEeMn.debug.temp.o
+msc_device.c.b0ffd9e2                             C:\msys64\tmp\cci3L11y.debug.temp.o
+ncm_device.c.e3e6d93d                             C:\msys64\tmp\cccMSoFV.debug.temp.o
+startup_samd21.c.1fceb640                         C:\msys64\tmp\ccivYLoP.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+string_desc_arr                                   _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o (symbol from plugin)
+strlen                                            c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strlen-stub.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+strncasecmp                                       c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strncasecmp.o)
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+strtol                                            c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+                                                  c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-atoi.o)
+strtol_l                                          c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-strtol.o)
+system_samd21.c.22b6b240                          C:\msys64\tmp\cca314lX.debug.temp.o
+system_ticks                                      _build/atsamd21_xpro/obj/hw/bsp/samd21/family.o (symbol from plugin)
+tu_desc_get_interface_total_len                   _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+tu_edpt_bind_driver                               _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_edpt_claim                                     _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_edpt_release                                   _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_edpt_validate                                  _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_fifo_advance_read_pointer                      _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_advance_write_pointer                     _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_clear                                     _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_fifo_config                                    _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_correct_read_pointer                      _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_count                                     _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_empty                                     _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_fifo_full                                      _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_get_read_info                             _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_get_write_info                            _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_overflowed                                _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_peek                                      _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_peek_n                                    _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_read                                      _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_fifo_read_n                                    _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_read_n_const_addr_full_words              _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_remaining                                 _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_set_overwritable                          _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_write                                     _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tu_fifo_write_n                                   _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tu_fifo_write_n_const_addr_full_words             _build/atsamd21_xpro/obj/src/common/tusb_fifo.o (symbol from plugin)
+tud_connect                                       _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_connected                                     _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_control_status                                _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_control_xfer                                  _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_descriptor_bos_cb                             C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_descriptor_configuration_cb                   _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_descriptor_device_cb                          _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_descriptor_device_qualifier_cb                C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_descriptor_other_speed_configuration_cb       C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_descriptor_string_cb                          _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usb_descriptors.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_disconnect                                    _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_init                                          _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+tud_inited                                        _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+tud_mount_cb                                      _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_mounted                                       _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_remote_wakeup                                 _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_resume_cb                                     _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_speed_get                                     _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_suspend_cb                                    _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_suspended                                     _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_task_event_ready                              _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_task_ext                                      _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+tud_umount_cb                                     _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tud_usbtmc_bulkIn_clearFeature_cb                 _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_bulkOut_clearFeature_cb                _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_check_abort_bulk_in_cb                 _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_check_abort_bulk_out_cb                _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_check_clear_cb                         _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_get_capabilities_cb                    _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_get_stb_cb                             _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_indicator_pulse_cb                     _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_initiate_abort_bulk_in_cb              _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_initiate_abort_bulk_out_cb             _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_initiate_clear_cb                      _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_msgBulkIn_complete_cb                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_msgBulkIn_request_cb                   _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_msgBulkOut_start_cb                    _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_msg_data_cb                            _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_msg_trigger_cb                         _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_open_cb                                _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+tud_usbtmc_start_bus_read                         _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+tud_usbtmc_transmit_dev_msg_data                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+tud_vendor_control_xfer_cb                        C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+tusb.c.78c40a2d                                   C:\msys64\tmp\ccetASkb.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+tusb_fifo.c.4e3da884                              C:\msys64\tmp\cc2aUKDi.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+tusb_init                                         _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+tusb_inited                                       _build/atsamd21_xpro/obj/src/tusb.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usb_descriptors.c.7554e1a9                        C:\msys64\tmp\ccWTKIUW.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+usbd.c.43505ef3                                   C:\msys64\tmp\ccQYCI1p.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+usbd_app_driver_get_cb                            C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_control.c.92e702e3                           C:\msys64\tmp\ccwUt9nx.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+usbd_control_reset                                _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_control_set_complete_callback                _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_control_set_request                          _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_control_xfer_cb                              _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_defer_func                                   _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_edpt_busy                                    _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+usbd_edpt_claim                                   _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_edpt_clear_stall                             _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+usbd_edpt_close                                   _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_edpt_open                                    _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+usbd_edpt_release                                 _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_edpt_stall                                   _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+usbd_edpt_stalled                                 _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_edpt_xfer                                    _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd_control.o (symbol from plugin)
+usbd_edpt_xfer_fifo                               _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_int_set                                      _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_open_edpt_pair                               _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbd_sof_enable                                   _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbtmcLockBuffer                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+usbtmc_app.c.224630b2                             C:\msys64\tmp\ccq73h93.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+usbtmc_app_task_iter                              _build/atsamd21_xpro/obj/examples/device/usbtmc/src/usbtmc_app.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/examples/device/usbtmc/src/main.o (symbol from plugin)
+usbtmc_device.c.a90aaae8                          C:\msys64\tmp\cckCT126.debug.temp.o
+                                                  C:\msys64\tmp\usbtmc.elf.PvMCTR.ltrans0.ltrans.o
+usbtmcd_control_xfer_cb                           _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbtmcd_init_cb                                   _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbtmcd_open_cb                                   _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbtmcd_reset_cb                                  _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+usbtmcd_xfer_cb                                   _build/atsamd21_xpro/obj/src/class/usbtmc/usbtmc_device.o (symbol from plugin)
+                                                  _build/atsamd21_xpro/obj/src/device/usbd.o (symbol from plugin)
+vendor_device.c.e77e07b3                          C:\msys64\tmp\ccUoROXt.debug.temp.o
+video_device.c.b8a1f0bf                           C:\msys64\tmp\ccKxmcwi.debug.temp.o
